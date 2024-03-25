@@ -10,3 +10,4 @@
 
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/815bfa6d-f5b9-471e-aecd-6f8925b97430)
 
+# ctrl + D --> 복사 붙여넣기
