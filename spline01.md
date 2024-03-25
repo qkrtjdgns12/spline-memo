@@ -8,4 +8,5 @@
 # 파란색이 앞으로 와야 정면이 됨
 # rgb --> xyz (red:x축, green:y축, blue:z축) 
 
-![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/3a4ca919-d7ef-43bb-8db0-dfe7ac1c983d)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/815bfa6d-f5b9-471e-aecd-6f8925b97430)
+
