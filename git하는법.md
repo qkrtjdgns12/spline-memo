@@ -71,11 +71,22 @@ git config --list
  ---
  git commit -m "first commit"
  ---
+ *-m은 메세지의 준말
+
+master자리에 branch
+ ---
+ git branch -M main
+ ---
 
 ## 4.gitHub repository와 내 로컬 프로젝트랑 연결
 
 ---
 git remote add origin https://github.com/qkrtjdgns12/flex-site.git
+---
+
+## 5. Github에 올리기
+---
+git push -u origin main
 ---
 
 
