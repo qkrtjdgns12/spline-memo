@@ -9,7 +9,8 @@
 
 
 ---
-git config --global user.name "whasun"
+
+git config --global user.name "park"
 ---
 
 #2-2 유저 이메일 설정하기
