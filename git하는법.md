@@ -1,4 +1,4 @@
-# git 설치하기
+# <git 설치하기>
 # 1.git 검색하기 
 https://git-scm.com/
 
@@ -17,7 +17,8 @@ git config --global user.name "park"
 
 
 * 우클릭 > paste로 붙이기
-- ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/138d1326-325d-4468-89f4-72f42aa211e5)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/56be2799-65b0-4828-8286-f87b50a1cf8b)
+
 
 # 2-2 유저 이메일 설정하기
 - 반드시 gitHub가입시 사용한 이메일을 써주어야 한다. ★★★★
@@ -29,7 +30,8 @@ git config --global user.name "park"
 git config --global user.email "sangd456@naver.com"
 ---
 
-![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/56679397-e957-4887-ada5-fdc91820798f)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/6a813935-5e24-4d5b-bd08-1203ce010d77)
+
 
 # 2-3 정보 확인하기
 
@@ -38,7 +40,8 @@ git config --global user.email "sangd456@naver.com"
 git config --list
 ---
 
-![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/1bac872a-5cee-40ed-844e-4bc337b2698f)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/170e57d6-84d2-4467-be8f-7320684f3a49)
+
 
 =================================위 작업은 한 컴퓨터에 한 번만 하면 된다
 
@@ -55,7 +58,7 @@ git config --list
  ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/a9b7e8c9-7dcb-422b-8757-8d797e2499f5)
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/66ab2e1e-f0bb-4680-b00b-f5c4145b9426)
 
-##2. 추가할 파일 더하기
+## 2. 추가할 파일 더하기
 
  ---
  git add .
@@ -72,24 +75,69 @@ git config --list
  git commit -m "first commit"
  ---
  *-m은 메세지의 준말
+ 
 
-master자리에 branch
+master자리에 branch이름이 main이라는 의미
  ---
  git branch -M main
  ---
+
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/fcfccab0-83ba-4264-8f14-39e8453019b4)
 
 ## 4.gitHub repository와 내 로컬 프로젝트랑 연결
 
 ---
 git remote add origin https://github.com/qkrtjdgns12/flex-site.git
 ---
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/7c6a7567-1d54-4bdf-969d-7909e4ef4d1c)
+
 
 ## 5. Github에 올리기
 ---
 git push -u origin main
 ---
+### 순서
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/4a3feaa4-29b6-4302-b3ca-067ebd48c8f1)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/a3e4911b-9a5f-46eb-ad77-ac89e84988bc)
 
 
+
+
+==========================================================================
+# ＆ Github에 계속 업데이트 하는 방법 
+
+# 1. 추가할 파일 더하기 
+---
+git add .
+---
+새로운 터미널을 연다.
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/16f5c61b-c887-4595-a14b-758b047f8bda)
+
+
+# 2. 히스토리 만들기
+
+---
+git commit -m"417 업그레이드"
+---
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/84339910-04a4-44b0-94fe-2e6a66c658ed)
+
+
+# 3. Github에 올리기
+
+---
+git push -u origin main
+---
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/137d35b3-b8de-49be-9439-c582026a0083)
+
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/4b627891-8f2f-4814-be7c-514b46212506)
+
+
+# ??
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/593b1785-eb46-4b5b-8bb2-5219723d61f8)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/e1cd1d0d-3e89-4f2c-9a55-6be04edf5afc)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/06ce6e6d-9428-4e71-8f35-0d5f2a68e2ef)
+
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/90de54ab-50fe-4fd4-a13c-a28697024a17)
 
 
 
