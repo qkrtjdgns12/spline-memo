@@ -16,7 +16,7 @@ git config --global user.name "park"
 
 - ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/138d1326-325d-4468-89f4-72f42aa211e5)
 
-#2-2 유저 이메일 설정하기
+# 2-2 유저 이메일 설정하기
 - 반드시 gitHub가입시 사용한 이메일을 써주어야 한다. ★★★★
 
 
