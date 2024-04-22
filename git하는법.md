@@ -81,8 +81,10 @@ master자리에 branch이름이 main이라는 의미
  ---
  git branch -M main
  ---
+connit자리에 넣고싶은 이름 적으면 됨
 
-![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/fcfccab0-83ba-4264-8f14-39e8453019b4)
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/ad6b46b7-50ec-4d5b-8120-941e8b3639ef)
+
 
 ## 4.gitHub repository와 내 로컬 프로젝트랑 연결
 
