@@ -23,6 +23,8 @@ git config --global user.name "park"
 
 (sangd456@naver.com) 이다.
 
+Netlify연동되어야 하니 (sangd123456@gmai.com)이다.
+
 ---
 git config --global user.email "sangd456@naver.com"
 ---
