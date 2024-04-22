@@ -98,6 +98,7 @@ git remote add origin https://github.com/qkrtjdgns12/flex-site.git
 
 
 ↓ 비주얼 스튜디오의 터미널의 예시
+
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/d8df1220-dad3-4964-a614-4b2b4533f037)
 
 ↓ Open Git Bash here의 예시
