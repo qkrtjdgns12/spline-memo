@@ -14,7 +14,7 @@ git config --global user.name "park"
 ---
 
 
-* 우클릭 > paste로 붙이기
+* 우클릭 > paste로 붙이기 (복사 붙여넣기하는 방법이다.)
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/56be2799-65b0-4828-8286-f87b50a1cf8b)
 
 
