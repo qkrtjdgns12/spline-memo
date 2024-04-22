@@ -9,11 +9,9 @@ https://git-scm.com/
 - 임의로 이름을 넣으면 된다
 
 
-
 ---
 git config --global user.name "park"
 ---
-
 
 
 * 우클릭 > paste로 붙이기
@@ -26,7 +24,6 @@ git config --global user.name "park"
 (sangd456@naver.com) 이다.
 
 ---
-
 git config --global user.email "sangd456@naver.com"
 ---
 
@@ -36,6 +33,7 @@ git config --global user.email "sangd456@naver.com"
 # 2-3 정보 확인하기
 
 ↓ 입력하기
+
 ---
 git config --list
 ---
@@ -55,6 +53,7 @@ git config --list
  ---
  git init
  ---
+ 
  ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/a9b7e8c9-7dcb-422b-8757-8d797e2499f5)
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/66ab2e1e-f0bb-4680-b00b-f5c4145b9426)
 
@@ -78,10 +77,12 @@ git config --list
  
 
 master자리에 branch이름이 main이라는 의미
+
  ---
  git branch -M main
  ---
-connit자리에 넣고싶은 이름 적으면 됨
+ 
+commit자리에 넣고싶은 이름 적으면 된다.
 
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/ad6b46b7-50ec-4d5b-8120-941e8b3639ef)
 
@@ -91,13 +92,21 @@ connit자리에 넣고싶은 이름 적으면 됨
 ---
 git remote add origin https://github.com/qkrtjdgns12/flex-site.git
 ---
+
+↓ github에서 만든 파일 화면에 복사하여 붙여넣어야한다
+![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/9378e83f-6dd9-4903-b23e-3ddfb6adae49)
+
+
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/7c6a7567-1d54-4bdf-969d-7909e4ef4d1c)
 
 
 ## 5. Github에 올리기
+
 ---
 git push -u origin main
 ---
+
+
 ### 순서
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/4a3feaa4-29b6-4302-b3ca-067ebd48c8f1)
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/a3e4911b-9a5f-46eb-ad77-ac89e84988bc)
@@ -109,9 +118,11 @@ git push -u origin main
 # ＆ Github에 계속 업데이트 하는 방법 
 
 # 1. 추가할 파일 더하기 
+
 ---
 git add .
 ---
+
 새로운 터미널을 연다.
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/16f5c61b-c887-4595-a14b-758b047f8bda)
 
@@ -121,6 +132,7 @@ git add .
 ---
 git commit -m"417 업그레이드"
 ---
+
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/84339910-04a4-44b0-94fe-2e6a66c658ed)
 
 
@@ -129,6 +141,7 @@ git commit -m"417 업그레이드"
 ---
 git push -u origin main
 ---
+
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/137d35b3-b8de-49be-9439-c582026a0083)
 
 ![image](https://github.com/qkrtjdgns12/spline-memo/assets/163283968/4b627891-8f2f-4814-be7c-514b46212506)
